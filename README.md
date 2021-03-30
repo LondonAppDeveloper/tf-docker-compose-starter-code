@@ -7,8 +7,8 @@ This tutorial is an excerpt from our course: [DevOps Deployment Automation with 
 
 ## Pre-requisites
 
-Before following the steps in this tutorial, configure the following:
+Before following this tutorial you will need the following:
 
- * Clone this project.
- * Install [Docker Desktop](https://www.docker.com/products/docker-desktop) (or install Docker and docker-compose manually if using Linux).
- * Install and configure [aws-vault](https://github.com/99designs/aws-vault) with your AWS administrator account.
+ 1. Access to an AWS IAM user with permissions to access the console
+ 2. [aws-vault](https://github.com/99designs/aws-vault) installed and configured with your AWS admin account
+ 3. [Docker Desktop](https://www.docker.com/products/docker-desktop) (if using Linux, you'll need to install Docker and Docker Compose separately)
