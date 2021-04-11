@@ -31,4 +31,4 @@ override.tf.json
 # End of https://www.toptal.com/developers/gitignore/api/terraform
 .DS_Store
 
-terraform.lock.hcl
+.terraform.lock.hcl
